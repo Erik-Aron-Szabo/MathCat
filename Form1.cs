@@ -128,8 +128,8 @@ namespace MathCat
 
             // ===========================
 
-            timeLeft = 60;
-            timeLabel.Text = "60 seconds";
+            timeLeft = 82;
+            timeLabel.Text = "82 seconds";
             timer1.Start();
 
         }
@@ -208,16 +208,16 @@ namespace MathCat
                 timer1.Stop();
                 timeLabel.Text = "Vége!";
                 MessageBox.Show("Próbáld újra, kedves Cat!", "Sikerülni fog!! ^_^");
-                answer1.Value = leftNum1 + rigtNum1;
-                answer2.Value = leftNum2 + rigtNum2;
-                answer3.Value = leftNum3 + rigtNum3;
-                answer4.Value = leftNum4 + rigtNum4;
-                answer5.Value = leftNum5 + rigtNum5;
-                answer6.Value = leftNum6 + rigtNum6;
-                answer7.Value = leftNum7 + rigtNum7;
-                answer8.Value = leftNum8 + rigtNum8;
-                answer9.Value = leftNum9 + rigtNum9;
-                answer10.Value = leftNum10 + rigtNum10;
+                answer1.Value = leftNum1 * rigtNum1;
+                answer2.Value = leftNum2 * rigtNum2;
+                answer3.Value = leftNum3 * rigtNum3;
+                answer4.Value = leftNum4 * rigtNum4;
+                answer5.Value = leftNum5 * rigtNum5;
+                answer6.Value = leftNum6 * rigtNum6;
+                answer7.Value = leftNum7 * rigtNum7;
+                answer8.Value = leftNum8 * rigtNum8;
+                answer9.Value = leftNum9 * rigtNum9;
+                answer10.Value = leftNum10 * rigtNum10;
                 startButton.Enabled = true;
             }
         }
