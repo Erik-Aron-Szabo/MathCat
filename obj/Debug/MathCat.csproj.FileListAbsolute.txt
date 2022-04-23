@@ -1,0 +1,10 @@
+C:\Users\erika\source\repos\MathCat\bin\Debug\MathCat.exe.config
+C:\Users\erika\source\repos\MathCat\bin\Debug\MathCat.exe
+C:\Users\erika\source\repos\MathCat\bin\Debug\MathCat.pdb
+C:\Users\erika\source\repos\MathCat\obj\Debug\MathCat.csprojAssemblyReference.cache
+C:\Users\erika\source\repos\MathCat\obj\Debug\MathCat.Form1.resources
+C:\Users\erika\source\repos\MathCat\obj\Debug\MathCat.Properties.Resources.resources
+C:\Users\erika\source\repos\MathCat\obj\Debug\MathCat.csproj.GenerateResource.cache
+C:\Users\erika\source\repos\MathCat\obj\Debug\MathCat.csproj.CoreCompileInputs.cache
+C:\Users\erika\source\repos\MathCat\obj\Debug\MathCat.exe
+C:\Users\erika\source\repos\MathCat\obj\Debug\MathCat.pdb
